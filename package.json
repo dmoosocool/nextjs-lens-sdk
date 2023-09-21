@@ -28,7 +28,7 @@
     "clsx": "^2.0.0",
     "eslint": "8.49.0",
     "eslint-config-next": "13.4.19",
-    "graphql": "^16.8.0",
+    "graphql": "^16.8.1",
     "kubo-rpc-client": "^3.0.1",
     "lucide-react": "^0.279.0",
     "next": "13.4.19",
